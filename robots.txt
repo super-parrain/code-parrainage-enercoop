@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://super-parrain.github.io/code-parrainage-enercoop/sitemap.xml
